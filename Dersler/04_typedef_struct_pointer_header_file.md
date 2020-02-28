@@ -99,7 +99,6 @@ int main(){
 
 
 ```c
-#include <string.h>
 #define RCC_AHB1ENR (*((unsigned int*)0x40023830))
 #define GPIOD ((GPIO_TypeDef*)0x40020C00)
 
