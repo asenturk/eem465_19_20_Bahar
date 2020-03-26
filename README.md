@@ -1,3 +1,13 @@
+**Ders Notları (26.03.2020)**   
+
+Tüm ders notları eklenmiştir:   
+https://github.com/asenturk/eem465/tree/master/Dersler
+
+Ders notlarını indirmekte problem yaşayanlar tüm dosyaları indirerek ders notlarına ulaşabilir:   
+![ornek devre](./download.png)
+
+---
+
 **Derste kullanılacak cihaz ve program (11.02.2020)**
 
 - Cihaz: [STM32F4 Discovery](https://www.st.com/en/evaluation-tools/stm32f4discovery.html)
