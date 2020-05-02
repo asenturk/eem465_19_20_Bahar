@@ -12,6 +12,8 @@ Talimatlardan anlaşılmayan bir şey olursa mail ile ulaşarak sorularınızı 
 Kolay gelsin.
 
 
+---
+
 **Ders Notları (26.03.2020)**   
 
 Tüm ders notları eklenmiştir:   
