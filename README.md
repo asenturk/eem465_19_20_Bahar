@@ -1,3 +1,17 @@
+**Arasınav Ödevi (02.05.2020)**   
+
+Arasınav için hazırlanması gereken ödev ile ilgili açıklamalara (Arasınav Ödev)[./Arasinav_odevi] klasöründen ulaşabilirsiniz.
+
+
+Bu doküman akademik takvimde belirtildiği tarihte aktif olacak şekilde OBS'ye eklenecektir. Ödevler OBS'den toplanacaktır.
+
+Lütfen  talimatları dikkatli bir şekilde oluyunuz ve ödevinizi bu talimatlara göre yapınız.
+
+Talimatlardan anlaşılmayan bir şey olursa mail ile ulaşarak sorularınızı sorabilirsiniz.
+
+Kolay gelsin.
+
+
 **Ders Notları (26.03.2020)**   
 
 Tüm ders notları eklenmiştir:   
