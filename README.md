@@ -1,3 +1,9 @@
+**Final Sınavı (07.06.2020)**   
+
+Final Sınavı ile ilgili açıklamalara [Final Sınavı](./Final_sinavi) klasöründen ulaşabilirsiniz.
+
+---
+
 **Arasınav Ödevi (02.05.2020)**   
 
 Arasınav için hazırlanması gereken ödev ile ilgili açıklamalara [Arasınav Ödev](./Arasinav_odevi) klasöründen ulaşabilirsiniz.
